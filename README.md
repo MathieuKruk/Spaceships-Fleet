@@ -6,14 +6,14 @@
   <li>Spaceships Fleet is a battleship game playable on internet navigators.</li>
   <li>Theme inspired by Mass Effect & Battlestar Galactica.</li>
 </ul>
+
 <hr>
+
 <p align="center">
   <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.suwalls.com%2Fwallpapers%2Ffantasy%2Fspaceships-heading-to-the-light-54324-1920x1080.jpg&sp=7ce47b6377fda81eb3c41b1372f38174">
 </p>
 
-<br>
 <hr>
-<br>
 
 ## ◾ Motivation
 
@@ -62,9 +62,7 @@ something aesthetically pleasing to most.
 
 ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
 
-<br>
 <hr>
-<br>
 
 ## ◾ Tasks
 
@@ -72,9 +70,7 @@ something aesthetically pleasing to most.
 - [x] Work on the main project.
 - [ ] Launch the app.
 
-<br>
 <hr>
-<br>
 
 ## ◾ Build status
 
@@ -85,9 +81,7 @@ Logs
    - ...
    - ...
 
-<br>
 <hr>
-<br>
 
 ## ◾ Screenshots
 
@@ -95,9 +89,8 @@ Logs
 <p align="center">
   <img src="apiArchitecture.jpg">
 </p>
-<br>
+
 <hr>
-<br>
 
 ## ◾ Tech/framework used
 
@@ -109,9 +102,7 @@ Logs
    - [Node.js](https://nodejs.org/en/)
    - [React](https://reactjs.org/)
 
-<br>
 <hr>
-<br>
 
 ## ◾ Code Example
 
@@ -120,24 +111,19 @@ function test() {
   console.log("This is a test for code input?");
 }
 ```
-<br>
+
 <hr>
-<br>
 
 ## ◾ Credits
 
 [Mathieu Kruk](https://github.com/MathieuKruk)
 
-<br>
 <hr>
-<br>
 
 ## ◾ License
 
 OpenSource | Free
 
-<br>
 <hr>
-<br>
 
 ✍️ Readme Author: Mathieu Kruk 
