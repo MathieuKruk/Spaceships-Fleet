@@ -1,4 +1,4 @@
-# Spaceships Fleet:
+# Spaceships Fleet 👾
 
 <ul>
   <li>Battleship game on navigator.</li>
