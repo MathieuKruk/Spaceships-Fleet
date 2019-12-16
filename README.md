@@ -8,7 +8,7 @@
 ℹ️ Development started on 09/12/2019.
 
 <p align="center">
-  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9b%2FSocial_Network_Analysis_Visualization.png&sp=faebc9faffea40798896f3bee0603df8&anticache=403882">
+  <img src="https://browse.startpage.com/do/show_picture.pl?l=english&rais=1&oiu=https%3A%2F%2Fcdn.suwalls.com%2Fwallpapers%2Ffantasy%2Fspaceships-heading-to-the-light-54324-1920x1080.jpg&sp=7ce47b6377fda81eb3c41b1372f38174&t=dark">
 </p>
 
 <br>
