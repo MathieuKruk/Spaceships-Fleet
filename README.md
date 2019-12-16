@@ -100,8 +100,7 @@ Logs
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
-   - [React](https://reactjs.org/)
-
+   
 <hr>
 
 ## ◾ Code Example
