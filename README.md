@@ -10,7 +10,6 @@
 <br>
 <hr>
 <br>
-
 <p align="center">
   <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.suwalls.com%2Fwallpapers%2Ffantasy%2Fspaceships-heading-to-the-light-54324-1920x1080.jpg&sp=7ce47b6377fda81eb3c41b1372f38174">
 </p>
@@ -21,7 +20,7 @@
 
 ## ◾ Motivation
 
-It has been launch the 09/12/2019 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+It has been launch the 💠09/12/2019💠 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
 
 Below, you will find our guidelines hosted on the school repo: 
 
