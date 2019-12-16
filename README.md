@@ -23,39 +23,42 @@ Below, you will find our guidelines hosted on the school repo:
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
-== Missions objectives
+== Learning objectives
 
 At the end of this challenge you should be able to:
 
-* create a *chat* in *Node.js* 
-* install libraries with *npm*
-* use *Express.JS*
-* use *Socket.IO*
+* use the *Node.js* syntax
+* use *object oriented programming*
+* think better design through
+* make a *UML*
 
 
 == The mission
 
-You have to make a _real-time chat_ using {node}[Node.js], {express}[Express.JS]
-and {socket}[Socket.IO].
+During your last challenge you had to implement the {bship}[battleship] game
+into a chat. Most of you didn't have the time or simply implemented a basic
+version of it. Well this challenge will have you revisit the game, write it in
+an *OOP* programming style and cook up a *tasty design*.
 
-.Original instructions
-* write your server with *Node.js* and *Express.JS*
-* handle real time chatting with *Socket.IO*
-* allow for different user at the same time
-* keep messages after reloading the page
+.Instructions
+* make a visually appealing mock-up
+* spend time on the design!!!
+* try to think an *UML* through
+* write the battleship game in *OOP*
+* integrate the design into your game
 
-.Additional instructions
-* implement a {bship}[battleship] game in the chat
-* allow user to write *MarkDown* in the input to style their messages
-* add user accounts with _username_, _profile picture_ and _description_
-* allow user to edit or delete their messages
-* make it the most beautiful chat ever
+.Optional
+* make the game *multiplayer* (hint: _Socket.IO_)
+* use a framework (React, Vue, etc...)
 
+NOTE: Visuals are always subjective, but try to help each other out to make
+something aesthetically pleasing to most.
 
 === Resources
 
-* https://nodejs.org/en/docs/[Node documentation]
-* https://socket.io/get-started/chat/[Socket.IO chat]
+* https://www.smartdraw.com/uml-diagram/[What's an UML?]
+* https://www.codeproject.com/articles/618/oop-and-uml[OOP and UML]
+* https://tinyurl.com/y8d2z4ms[OOP tutorial]
 
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -100,12 +103,12 @@ Logs
 ## ◾ Tech/framework used
 
 1. Front-end
-   - [React]https://reactjs.org/)
+   - [React](https://reactjs.org/)
    - [Bootstrap](https://getbootstrap.com/)
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
-     - [React]https://reactjs.org/)
+   - [React](https://reactjs.org/)
 
 <br>
 <hr>
