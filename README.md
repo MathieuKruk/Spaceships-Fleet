@@ -1,4 +1,4 @@
-# Spaceships Fleet 👾
+# 👾 Spaceships Fleet
 
 ## ◾ Features
 
